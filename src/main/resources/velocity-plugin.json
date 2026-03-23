@@ -1,0 +1,8 @@
+{
+  "id": "ycorevelocity",
+  "name": "yCore-Velocity",
+  "version": "1.0.0",
+  "description": "Shared compatibility and utility core for OneLimit Velocity plugins",
+  "authors": ["OneLimit"],
+  "main": "dev.onelimit.ycore.velocity.YCoreVelocityPlugin"
+}
